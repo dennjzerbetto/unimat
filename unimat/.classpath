@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/dennjzerbetto/Works/javacsv.jar"/>
+	<classpathentry kind="lib" path="/Users/dennjzerbetto/Works/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="lib" path="/Users/dennjzerbetto/Downloads/SafariDownload/mpxj-1/mpxj.jar"/>
+	<classpathentry kind="lib" path="/Users/dennjzerbetto/Downloads/SafariDownload/mpxj-1/lib/poi-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="/Users/dennjzerbetto/Works/log4j-1.2.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
