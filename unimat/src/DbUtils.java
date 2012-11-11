@@ -358,7 +358,7 @@ public class DbUtils {
 				
 			}
 			
-			int rowID = min;
+			int rowID = -1;
 			for (int i=0;i<listaPred.length;i++){
 				try {
 				int dipTest = Integer.parseInt(listaPred[i]);
@@ -371,6 +371,7 @@ public class DbUtils {
 					
 				}
 			}
+			
 			query = "Select Uproc from "+tableWorks;
 			query +=" where rowid = '"+rowID+"'";
 			rs = stat.executeQuery(query);
